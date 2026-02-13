@@ -15,6 +15,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_courbet.mk
+    $(LOCAL_DIR)/fox_courbet.mk
 
-COMMON_LUNCH_CHOICES := twrp_courbet-eng
+COMMON_LUNCH_CHOICES := fox_courbet-eng
