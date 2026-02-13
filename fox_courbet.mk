@@ -28,7 +28,7 @@ $(call inherit-product, device/xiaomi/courbet/device.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := courbet
-PRODUCT_NAME := twrp_courbet
+PRODUCT_NAME := fox_courbet
 PRODUCT_BRAND := Mi
 PRODUCT_MODEL := M2101K9AG
 PRODUCT_MANUFACTURER := Xiaomi
